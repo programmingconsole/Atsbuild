@@ -1,0 +1,9 @@
+JOHN DOE
+
+EXPERIENCE
+- Built backend APIs for analytics platform.
+- Managed cloud deployments and CI pipelines.
+- Collaborated with cross-functional teams.
+
+SKILLS
+Python, SQL, Docker, AWS
