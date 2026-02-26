@@ -1,0 +1,11 @@
+Senior Python Engineer
+
+Responsibilities
+- Build scalable APIs and data pipelines.
+- Lead cloud-native deployments and CI/CD automation.
+- Collaborate with product stakeholders.
+
+Requirements
+- 5+ years of software engineering experience.
+- Required: Python, SQL, AWS, Docker, Kubernetes.
+- Preferred: FastAPI, Terraform, leadership.
